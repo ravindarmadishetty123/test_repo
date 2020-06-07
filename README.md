@@ -8,7 +8,7 @@ You can use this project as a template for creating Shiny application on Heroku.
 
 ```bash
 # get the sources
-git clone https://github.com/virtualstaticvoid/heroku-docker-r-shiny-app.git
+git clone https://github.com/ravindarmadishetty123/test_repo.git
 cd heroku-docker-r-shiny-app
 
 # optionally, reinitialize git
@@ -30,5 +30,5 @@ heroku open
 MIT License. Copyright (c) 2020 Chris Stefano. See [MIT_LICENSE](MIT_LICENSE) for details.
 
 [1]: https://shiny.rstudio.com
-[2]: https://github.com/virtualstaticvoid/heroku-docker-r
+[2]: https://github.com/ravindarmadishetty123/test_repo-r
 
